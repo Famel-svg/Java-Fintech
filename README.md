@@ -57,19 +57,6 @@ O **Java Fintech** foi criado por mim para aprimorar meus conhecimentos em orien
 
 ---
 
-## 🤝 Contribuindo
-
-Contribuições são super bem-vindas!  
-Siga os passos abaixo para contribuir:
-
-1. Faça um fork deste repositório
-2. Crie uma branch: `git checkout -b minha-feature`
-3. Faça suas alterações e commit: `git commit -m 'feat: minha nova feature'`
-4. Push na sua branch: `git push origin minha-feature`
-5. Abra um Pull Request
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.  
