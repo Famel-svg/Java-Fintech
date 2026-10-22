@@ -1,0 +1,5 @@
+
+# IDE e saída de compilação
+out/
+*.iml
+target/
